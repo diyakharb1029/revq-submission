@@ -1,5 +1,15 @@
 # RevQ Take-Home Submission
 
+## Screenshots
+
+![Product List](screenshots/product-list.png)
+*Product list grouped by category with platform badges (Blinkit, Zepto, Instamart)*
+
+![Product Detail](screenshots/product-detail.png)
+*Product detail — price comparison across platforms + per-pincode availability*
+
+---
+
 ## Quick start
 
 ```bash
