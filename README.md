@@ -97,4 +97,3 @@ The data has per-pincode in-stock status. A simple table or heatmap showing whic
 A one-shot ingest of sample data isn't useful in production. I'd wire up a cron trigger (even a simple `node-cron` job) that re-runs ingestion against live scrape output on a schedule and appends to the time-series tables. This is the step that turns a static demo into a live dashboard.
 
 I'd do these three in that order because (1) and (2) make the existing data visible and compelling without requiring any infrastructure changes, and (3) is the unlock that makes the whole system self-sustaining. Auth, multi-brand support, and alerting all come after the core loop works.
-# revq-submission
