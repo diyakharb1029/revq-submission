@@ -14,7 +14,7 @@
 
 ```bash
 # 1. Ingest the sample data
-cd ingest && python ingest.py && cd ..
+cd ingest && python3 ingest.py && cd ..
 
 # 2. Start the app (API on :3001, UI on :5173)
 cd app && npm install && npm run dev
