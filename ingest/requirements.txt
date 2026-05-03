@@ -1,0 +1,2 @@
+# No third-party dependencies — only the Python standard library.
+# Python >= 3.10 required (uses X | Y union types in annotations).

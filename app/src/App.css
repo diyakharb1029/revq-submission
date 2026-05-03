@@ -1,0 +1,102 @@
+/* ── Reset ────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+       background: #f5f6fa; color: #1a1a2e; line-height: 1.5; }
+
+/* ── Layout ───────────────────────────────────────────────── */
+.app { min-height: 100vh; display: flex; flex-direction: column; }
+.app-header {
+  background: #1a1a2e; color: #fff; padding: 0 2rem;
+  height: 52px; display: flex; align-items: center; gap: 0.75rem;
+  position: sticky; top: 0; z-index: 10; box-shadow: 0 1px 4px rgba(0,0,0,.3);
+}
+.app-logo    { font-size: 1.25rem; font-weight: 700; letter-spacing: 1px; color: #f9a826; }
+.app-tagline { font-size: 0.78rem; color: #aaa; }
+.app-main    { flex: 1; padding: 2rem; max-width: 1100px; margin: 0 auto; width: 100%; }
+
+/* ── Utilities ────────────────────────────────────────────── */
+.page-title   { font-size: 1.4rem; font-weight: 600; margin-bottom: 1.5rem; color: #1a1a2e; }
+.back-link    { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.85rem;
+                color: #666; text-decoration: none; margin-bottom: 1.5rem; }
+.back-link:hover { color: #1a1a2e; }
+
+/* ── Status / empty / error ───────────────────────────────── */
+.status-box { padding: 3rem 1rem; text-align: center; color: #888; }
+.status-box.error { color: #c0392b; }
+.spinner    { width: 32px; height: 32px; border: 3px solid #e0e0e0;
+              border-top-color: #f9a826; border-radius: 50%;
+              animation: spin .7s linear infinite; margin: 0 auto 1rem; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Product list ─────────────────────────────────────────── */
+.product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+                gap: 1rem; }
+.product-card {
+  background: #fff; border-radius: 10px; padding: 1.25rem;
+  text-decoration: none; color: inherit;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08);
+  transition: transform .15s, box-shadow .15s;
+  display: flex; flex-direction: column; gap: 0.6rem;
+}
+.product-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,.12); }
+.product-card-name  { font-size: 0.95rem; font-weight: 600; line-height: 1.3; }
+.product-card-meta  { font-size: 0.78rem; color: #888; }
+.platform-badges    { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: auto; }
+.platform-badge     { padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;
+                      font-weight: 600; text-transform: uppercase; letter-spacing: .5px; }
+.badge-blinkit   { background: #fff3cd; color: #856404; }
+.badge-zepto     { background: #f3e8ff; color: #6b21a8; }
+.badge-instamart { background: #dcfce7; color: #15803d; }
+
+/* ── Product detail ───────────────────────────────────────── */
+.product-detail { display: flex; flex-direction: column; gap: 1.5rem; }
+
+.product-header { background: #fff; border-radius: 10px; padding: 1.5rem;
+                  display: flex; align-items: flex-start; gap: 1.5rem;
+                  box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.product-image  { width: 88px; height: 88px; object-fit: contain; border-radius: 8px;
+                  border: 1px solid #f0f0f0; flex-shrink: 0; }
+.product-image-placeholder { width: 88px; height: 88px; background: #f0f0f0; border-radius: 8px;
+                              display: flex; align-items: center; justify-content: center;
+                              font-size: 2rem; flex-shrink: 0; }
+.product-header-text h1 { font-size: 1.3rem; font-weight: 700; line-height: 1.3; }
+.product-header-text .product-brand { font-size: 0.85rem; color: #f9a826; font-weight: 600;
+                                       text-transform: uppercase; letter-spacing: .5px; }
+.product-header-text .product-meta  { font-size: 0.8rem; color: #888; margin-top: 0.25rem; }
+
+/* ── Sections ─────────────────────────────────────────────── */
+.section { background: #fff; border-radius: 10px; padding: 1.25rem 1.5rem;
+           box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.section-title { font-size: 0.75rem; font-weight: 700; letter-spacing: 1px;
+                 text-transform: uppercase; color: #888; margin-bottom: 1rem; }
+
+/* ── Price table ──────────────────────────────────────────── */
+.price-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.price-table th { text-align: left; padding: 0.5rem 0.75rem; font-size: 0.75rem;
+                   font-weight: 600; color: #888; border-bottom: 1px solid #f0f0f0; }
+.price-table td { padding: 0.75rem; border-bottom: 1px solid #f5f5f5; vertical-align: middle; }
+.price-table tr:last-child td { border-bottom: none; }
+.price-table .price-cell   { font-weight: 700; font-size: 1rem; }
+.price-table .mrp-cell     { color: #aaa; text-decoration: line-through; font-size: 0.85rem; }
+.price-table .discount-cell { color: #16a34a; font-weight: 600; font-size: 0.85rem; }
+.platform-name { display: flex; align-items: center; gap: 0.5rem; }
+.platform-dot  { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.dot-blinkit   { background: #f9a826; }
+.dot-zepto     { background: #7c3aed; }
+.dot-instamart { background: #16a34a; }
+.scrape-time   { font-size: 0.7rem; color: #bbb; display: block; margin-top: 2px; }
+
+/* ── Availability section ─────────────────────────────────── */
+.avail-list { display: flex; flex-direction: column; gap: 0.75rem; }
+.avail-row  { display: flex; flex-direction: column; gap: 0.35rem; }
+.avail-header { display: flex; align-items: center; justify-content: space-between; }
+.avail-platform { display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem;
+                   font-weight: 600; }
+.avail-count    { font-size: 0.85rem; }
+.avail-bar-wrap { height: 6px; background: #f0f0f0; border-radius: 3px; overflow: hidden; }
+.avail-bar      { height: 100%; border-radius: 3px; transition: width .4s ease; }
+.avail-bar.full    { background: #16a34a; }
+.avail-bar.partial { background: #f9a826; }
+.avail-bar.none    { background: #e74c3c; }
+.oos-pincodes   { font-size: 0.75rem; color: #e74c3c; margin-top: 0.15rem; }
+.oos-label      { color: #888; }

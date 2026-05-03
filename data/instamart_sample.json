@@ -1,0 +1,608 @@
+{
+  "platform_name": "Swiggy Instamart",
+  "snapshot_time": "1714291800",
+  "results": [
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456701",
+      "display_name": "Yogabar Protein Bar | Chocolate Chunk & Nuts | 60g | Pack of 1",
+      "weight": "60",
+      "weight_unit": "g",
+      "store_mrp": 100,
+      "store_selling_price": 72,
+      "image": "https://im.swiggy.com/yogabar/ccn-60.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456702",
+      "display_name": "Yogabar Protein Bar | Chocolate Chunk & Nuts | 60g | Pack of 6",
+      "weight": "360",
+      "weight_unit": "g",
+      "store_mrp": 600,
+      "store_selling_price": 459,
+      "image": "https://im.swiggy.com/yogabar/ccn-60-p6.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456703",
+      "display_name": "Yogabar Protein Bar | Peanut Butter Chocolate | Pack of 6",
+      "weight": "0.36",
+      "weight_unit": "kg",
+      "store_mrp": 600,
+      "store_selling_price": 449,
+      "image": "https://im.swiggy.com/yogabar/pbc-60-p6.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456704",
+      "display_name": "Yogabar Protein Bar | Almond Fudge | 60 g | Pack of 6",
+      "weight": "360",
+      "weight_unit": "g",
+      "store_mrp": 600,
+      "store_selling_price": 469,
+      "image": "https://im.swiggy.com/yogabar/alf-60-p6.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 6
+        },
+        {
+          "pin": "560034",
+          "available_qty": 6
+        },
+        {
+          "pin": "560038",
+          "available_qty": 6
+        },
+        {
+          "pin": "560066",
+          "available_qty": 0
+        },
+        {
+          "pin": "560076",
+          "available_qty": 6
+        },
+        {
+          "pin": "560095",
+          "available_qty": 0
+        },
+        {
+          "pin": "560102",
+          "available_qty": 6
+        },
+        {
+          "pin": "560103",
+          "available_qty": 0
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456705",
+      "display_name": "Yogabar Multigrain Energy Bar | Cranberry | Pack of 6 | 228 g",
+      "weight": "228",
+      "weight_unit": "g",
+      "store_mrp": 240,
+      "store_selling_price": 189,
+      "image": "https://im.swiggy.com/yogabar/meb-cran.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456706",
+      "display_name": "Yogabar Muesli | Dark Chocolate & Cranberry | 400g",
+      "weight": "400",
+      "weight_unit": "g",
+      "store_mrp": 399,
+      "store_selling_price": 309,
+      "image": "https://im.swiggy.com/yogabar/muesli-dccran-400.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456707",
+      "display_name": "Yogabar Muesli | Dark Chocolate & Cranberry | 700g",
+      "weight": "700",
+      "weight_unit": "g",
+      "store_mrp": 599,
+      "store_selling_price": 469,
+      "image": "https://im.swiggy.com/yogabar/muesli-dccran-700.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 6
+        },
+        {
+          "pin": "560034",
+          "available_qty": 6
+        },
+        {
+          "pin": "560038",
+          "available_qty": 6
+        },
+        {
+          "pin": "560066",
+          "available_qty": 0
+        },
+        {
+          "pin": "560076",
+          "available_qty": 6
+        },
+        {
+          "pin": "560095",
+          "available_qty": 0
+        },
+        {
+          "pin": "560102",
+          "available_qty": 6
+        },
+        {
+          "pin": "560103",
+          "available_qty": 0
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456708",
+      "display_name": "Yogabar Almond + Cashew Crunch Muesli | 400g",
+      "weight": "400",
+      "weight_unit": "g",
+      "store_mrp": 399,
+      "store_selling_price": 299,
+      "image": "https://im.swiggy.com/yogabar/muesli-almond-cashew-400.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef0123456709",
+      "display_name": "Yogabar Wholegrain Breakfast Cereal | Choco Almond | 400 g",
+      "weight": "400",
+      "weight_unit": "g",
+      "store_mrp": 399,
+      "store_selling_price": 329,
+      "image": "https://im.swiggy.com/yogabar/cereal-chocalm.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 6
+        },
+        {
+          "pin": "560034",
+          "available_qty": 6
+        },
+        {
+          "pin": "560038",
+          "available_qty": 6
+        },
+        {
+          "pin": "560066",
+          "available_qty": 0
+        },
+        {
+          "pin": "560076",
+          "available_qty": 6
+        },
+        {
+          "pin": "560095",
+          "available_qty": 0
+        },
+        {
+          "pin": "560102",
+          "available_qty": 6
+        },
+        {
+          "pin": "560103",
+          "available_qty": 0
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef012345670a",
+      "display_name": "Yogabar Natural Peanut Butter | Crunchy | 400g",
+      "weight": "400",
+      "weight_unit": "g",
+      "store_mrp": 399,
+      "store_selling_price": 289,
+      "image": "https://im.swiggy.com/yogabar/pb-crunchy.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef012345670b",
+      "display_name": "Yogabar Natural Peanut Butter | Smooth | 400g",
+      "weight": "400",
+      "weight_unit": "g",
+      "store_mrp": 399,
+      "store_selling_price": 289,
+      "image": "https://im.swiggy.com/yogabar/pb-smooth.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 8
+        },
+        {
+          "pin": "560034",
+          "available_qty": 8
+        },
+        {
+          "pin": "560038",
+          "available_qty": 8
+        },
+        {
+          "pin": "560066",
+          "available_qty": 0
+        },
+        {
+          "pin": "560076",
+          "available_qty": 8
+        },
+        {
+          "pin": "560095",
+          "available_qty": 8
+        },
+        {
+          "pin": "560102",
+          "available_qty": 8
+        },
+        {
+          "pin": "560103",
+          "available_qty": 8
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef012345670c",
+      "display_name": "Yogabar Wholegrain Rolled Oats | 1000g",
+      "weight": "1000",
+      "weight_unit": "g",
+      "store_mrp": 299,
+      "store_selling_price": 239,
+      "image": "https://im.swiggy.com/yogabar/oats-1kg.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 12
+        },
+        {
+          "pin": "560034",
+          "available_qty": 12
+        },
+        {
+          "pin": "560038",
+          "available_qty": 12
+        },
+        {
+          "pin": "560066",
+          "available_qty": 12
+        },
+        {
+          "pin": "560076",
+          "available_qty": 12
+        },
+        {
+          "pin": "560095",
+          "available_qty": 12
+        },
+        {
+          "pin": "560102",
+          "available_qty": 12
+        },
+        {
+          "pin": "560103",
+          "available_qty": 12
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef012345670d",
+      "display_name": "Yogabar Wholegrain Rolled Oats | 400g",
+      "weight": "400",
+      "weight_unit": "g",
+      "store_mrp": 149,
+      "store_selling_price": 109,
+      "image": "https://im.swiggy.com/yogabar/oats-400.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 6
+        },
+        {
+          "pin": "560034",
+          "available_qty": 6
+        },
+        {
+          "pin": "560038",
+          "available_qty": 6
+        },
+        {
+          "pin": "560066",
+          "available_qty": 0
+        },
+        {
+          "pin": "560076",
+          "available_qty": 6
+        },
+        {
+          "pin": "560095",
+          "available_qty": 0
+        },
+        {
+          "pin": "560102",
+          "available_qty": 6
+        },
+        {
+          "pin": "560103",
+          "available_qty": 0
+        }
+      ]
+    },
+    {
+      "product_id": "b8c3f4d2-1a23-4b56-89cd-ef012345670e",
+      "display_name": "Yogabar Protein Bar | Variety | 6 Bars Mixed | 360g",
+      "weight": "360",
+      "weight_unit": "g",
+      "store_mrp": 600,
+      "store_selling_price": 449,
+      "image": "https://im.swiggy.com/yogabar/variety-p6.jpg",
+      "store_availability": [
+        {
+          "pin": "560001",
+          "available_qty": 0
+        },
+        {
+          "pin": "560034",
+          "available_qty": 4
+        },
+        {
+          "pin": "560038",
+          "available_qty": 4
+        },
+        {
+          "pin": "560066",
+          "available_qty": 0
+        },
+        {
+          "pin": "560076",
+          "available_qty": 4
+        },
+        {
+          "pin": "560095",
+          "available_qty": 0
+        },
+        {
+          "pin": "560102",
+          "available_qty": 0
+        },
+        {
+          "pin": "560103",
+          "available_qty": 0
+        }
+      ]
+    }
+  ]
+}

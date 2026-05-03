@@ -1,0 +1,336 @@
+{
+  "source": "zepto.in",
+  "fetched_on": "2026-04-28",
+  "items": [
+    {
+      "sku_code": "ZP-YGB-CCN-60-S",
+      "title": "YOGABAR CHOCOLATE CHUNK NUTS PROTEIN BAR 60GM",
+      "category_path": [
+        "Snacks",
+        "Healthy Snacks",
+        "Protein Bars"
+      ],
+      "price": {
+        "mrp": 100,
+        "final": 78
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-ccn-60.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-PBC-60-S",
+      "title": "YOGABAR PEANUT BUTTER CHOC PROTEIN BAR 60GM",
+      "category_path": [
+        "Snacks",
+        "Healthy Snacks",
+        "Protein Bars"
+      ],
+      "price": {
+        "mrp": 100,
+        "final": 75
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-pbc-60.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-CCN-60-6",
+      "title": "YOGABAR CHOC CHUNK NUTS BAR PACK OF 6 - 6X60GM",
+      "category_path": [
+        "Snacks"
+      ],
+      "price": {
+        "mrp": 600,
+        "final": 480
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-ccn-60-p6.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-PBC-60-6",
+      "title": "YOGABAR PEANUT BUTTER CHOC BAR PACK OF 6 - 360GM",
+      "category_path": [
+        "Snacks"
+      ],
+      "price": {
+        "mrp": 600,
+        "final": 469
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-pbc-60-p6.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-ALF-60-6",
+      "title": "YOGABAR ALMOND FUDGE BAR PACK OF 6 - 6X60G",
+      "category_path": [
+        "Snacks"
+      ],
+      "price": {
+        "mrp": 600,
+        "final": 489
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-alf-60-p6.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "out_of_stock",
+        "560102": "available",
+        "560103": "out_of_stock"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-MEB-CRAN-6",
+      "title": "YOGABAR MULTIGRAIN BAR CRANBERRY PACK OF 6 - 228GM",
+      "category_path": [
+        "Snacks",
+        "Healthy Snacks",
+        "Energy Bars"
+      ],
+      "price": {
+        "mrp": 240,
+        "final": 199
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-meb-cran.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "out_of_stock",
+        "560102": "available",
+        "560103": "out_of_stock"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-MEB-MANGO-6",
+      "title": "YOGABAR MULTIGRAIN BAR MANGO PACK OF 6 - 228GM",
+      "category_path": [
+        "Snacks",
+        "Healthy Snacks",
+        "Energy Bars"
+      ],
+      "price": {
+        "mrp": 240,
+        "final": 209
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-meb-mango.png",
+      "stock_by_pincode": {
+        "560001": "out_of_stock",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "out_of_stock",
+        "560102": "out_of_stock",
+        "560103": "out_of_stock"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-MSL-DCCR-400",
+      "title": "YOGABAR DARK CHOC CRANBERRY MUESLI 400GM",
+      "category_path": [
+        "Breakfast",
+        "Muesli & Granola"
+      ],
+      "price": {
+        "mrp": 399,
+        "final": 319
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-muesli-dccran-400.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-MSL-ALM-400",
+      "title": "YOGABAR ALMOND CRUNCH MUESLI 400GM",
+      "category_path": [
+        "Breakfast",
+        "Muesli & Granola"
+      ],
+      "price": {
+        "mrp": 399,
+        "final": 319
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-muesli-almond-400.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-CRL-CA-400",
+      "title": "YOGABAR WHOLEGRAIN CEREAL CHOCO ALMOND 400GM",
+      "category_path": [
+        "Breakfast",
+        "Cereals"
+      ],
+      "price": {
+        "mrp": 399,
+        "final": 339
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-cereal-chocalm.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "out_of_stock",
+        "560102": "available",
+        "560103": "out_of_stock"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-PB-CR-400",
+      "title": "YOGABAR PEANUT BUTTER CRUNCHY 400GM",
+      "category_path": [
+        "Snacks"
+      ],
+      "price": {
+        "mrp": 399,
+        "final": 299
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-pb-crunchy.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-PB-SM-400",
+      "title": "YOGABAR PEANUT BUTTER SMOOTH 400GM",
+      "category_path": [
+        "Snacks"
+      ],
+      "price": {
+        "mrp": 399,
+        "final": 299
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-pb-smooth.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-OATS-1K",
+      "title": "YOGABAR ROLLED OATS 1KG",
+      "category_path": [
+        "Breakfast",
+        "Oats"
+      ],
+      "price": {
+        "mrp": 299,
+        "final": 249
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-oats-1kg.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "available",
+        "560102": "available",
+        "560103": "available"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-OATS-400",
+      "title": "YOGABAR ROLLED OATS 400GM",
+      "category_path": [
+        "Breakfast",
+        "Oats"
+      ],
+      "price": {
+        "mrp": 149,
+        "final": 119
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-oats-400.png",
+      "stock_by_pincode": {
+        "560001": "available",
+        "560034": "available",
+        "560038": "available",
+        "560076": "available",
+        "560095": "out_of_stock",
+        "560102": "available",
+        "560103": "out_of_stock"
+      }
+    },
+    {
+      "sku_code": "ZP-YGB-P20-DCOC-6",
+      "title": "YOGABAR 20G PROTEIN BAR DOUBLE COCOA PACK OF 6",
+      "category_path": [
+        "Snacks",
+        "Healthy Snacks",
+        "Protein Bars"
+      ],
+      "price": {
+        "mrp": 720,
+        "final": 619
+      },
+      "image": "https://cdn.zeptonow.com/p/ygb-p20-dcoc-p6.png",
+      "stock_by_pincode": {
+        "560001": "out_of_stock",
+        "560034": "available",
+        "560038": "available",
+        "560076": "out_of_stock",
+        "560095": "out_of_stock",
+        "560102": "out_of_stock",
+        "560103": "out_of_stock"
+      }
+    }
+  ]
+}

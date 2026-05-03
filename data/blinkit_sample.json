@@ -1,0 +1,824 @@
+{
+  "platform": "blinkit",
+  "scraped_at": "2026-04-28T08:30:00Z",
+  "brand": "Yogabar",
+  "products": [
+    {
+      "blinkit_id": "prd_4528193",
+      "name": "Yogabar Chocolate Chunk & Nuts Protein Bar (60 g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 100,
+      "selling_price": 75,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-ccn-60.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528201",
+      "name": "Yogabar Peanut Butter Chocolate Protein Bar (60 g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 100,
+      "selling_price": 70,
+      "discount_percent": 30,
+      "image_url": "https://cdn.blinkit.com/yogabar-pbc-60.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528214",
+      "name": "Yogabar Almond Fudge Protein Bar (60 g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 100,
+      "selling_price": 79,
+      "discount_percent": 21,
+      "image_url": null,
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528194",
+      "name": "Yogabar Chocolate Chunk & Nuts Protein Bar - Pack of 6 (360g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 600,
+      "selling_price": 449,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-ccn-60-p6.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528202",
+      "name": "Yogabar Peanut Butter Chocolate Protein Bar - Pack of 6 (360g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 600,
+      "selling_price": 449,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-pbc-60-p6.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528215",
+      "name": "Yogabar Almond Fudge Protein Bar - Pack of 6 (360g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 600,
+      "selling_price": 479,
+      "discount_percent": 20,
+      "image_url": "https://cdn.blinkit.com/yogabar-alf-60-p6.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528216",
+      "name": "Yogabar Almond Fudge Protein Bar - Pack of 12 (720g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 1200,
+      "selling_price": 899,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-alf-60-p12.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": false
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": false
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": false
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528301",
+      "name": "Yogabar Multi Grain Energy Bar - Cranberry (38g x 6)",
+      "category": "Health Foods > Energy Bars",
+      "mrp": 240,
+      "selling_price": 189,
+      "discount_percent": 21,
+      "image_url": "https://cdn.blinkit.com/yogabar-meb-cran.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528302",
+      "name": "Yogabar Multi Grain Energy Bar - Mango (38g x 6)",
+      "category": "Health Foods > Energy Bars",
+      "mrp": 240,
+      "selling_price": 189,
+      "discount_percent": 21,
+      "image_url": "https://cdn.blinkit.com/yogabar-meb-mango.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528401",
+      "name": "Yogabar Dark Chocolate & Cranberry Muesli (400 g)",
+      "category": "Breakfast > Cereals & Muesli",
+      "mrp": 399,
+      "selling_price": 299,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-muesli-dccran-400.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528402",
+      "name": "Yogabar Dark Chocolate & Cranberry Muesli (700 g)",
+      "category": "Breakfast > Cereals & Muesli",
+      "mrp": 599,
+      "selling_price": 449,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-muesli-dccran-700.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528403",
+      "name": "Yogabar Almond Crunch Muesli (400 g)",
+      "category": "Breakfast > Cereals & Muesli",
+      "mrp": 399,
+      "selling_price": 309,
+      "discount_percent": 23,
+      "image_url": "https://cdn.blinkit.com/yogabar-muesli-almond-400.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528501",
+      "name": "Yogabar Wholegrain Breakfast Cereal - Choco Almond (400 g)",
+      "category": "Breakfast > Cereals & Muesli",
+      "mrp": 399,
+      "selling_price": 319,
+      "discount_percent": 20,
+      "image_url": "https://cdn.blinkit.com/yogabar-cereal-chocalm.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528601",
+      "name": "Yogabar Peanut Butter - Crunchy (400 g)",
+      "category": "Spreads > Peanut Butter",
+      "mrp": 399,
+      "selling_price": 289,
+      "discount_percent": 28,
+      "image_url": "https://cdn.blinkit.com/yogabar-pb-crunchy.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528602",
+      "name": "Yogabar Peanut Butter - Smooth (400 g)",
+      "category": "Spreads > Peanut Butter",
+      "mrp": 399,
+      "selling_price": 289,
+      "discount_percent": 28,
+      "image_url": "https://cdn.blinkit.com/yogabar-pb-smooth.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528603",
+      "name": "Yogabar Dark Chocolate Peanut Butter (400 g)",
+      "category": "Spreads > Peanut Butter",
+      "mrp": 399,
+      "selling_price": 299,
+      "discount_percent": 25,
+      "image_url": "https://cdn.blinkit.com/yogabar-pb-dark.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": false
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": false
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528701",
+      "name": "Yogabar Wholegrain Rolled Oats (1 kg)",
+      "category": "Breakfast > Cereals & Muesli",
+      "mrp": 299,
+      "selling_price": 229,
+      "discount_percent": 23,
+      "image_url": "https://cdn.blinkit.com/yogabar-oats-1kg.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": true
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": true
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": true
+        },
+        {
+          "pincode": "560102",
+          "in_stock": true
+        },
+        {
+          "pincode": "560103",
+          "in_stock": true
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528801",
+      "name": "Yogabar 21g Protein Bar - Double Cocoa (Pack of 6)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 720,
+      "selling_price": 599,
+      "discount_percent": 17,
+      "image_url": "https://cdn.blinkit.com/yogabar-21g-dcoc-p6.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": false
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": false
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    },
+    {
+      "blinkit_id": "prd_4528901",
+      "name": "Yogabar Protein Bar Variety Pack - Chocolate Chunk & Peanut Butter (6 x 60g)",
+      "category": "Health Foods > Protein Bars",
+      "mrp": 600,
+      "selling_price": 459,
+      "discount_percent": 24,
+      "image_url": "https://cdn.blinkit.com/yogabar-variety-p6.jpg",
+      "availability": [
+        {
+          "pincode": "560001",
+          "in_stock": false
+        },
+        {
+          "pincode": "560034",
+          "in_stock": true
+        },
+        {
+          "pincode": "560038",
+          "in_stock": true
+        },
+        {
+          "pincode": "560066",
+          "in_stock": false
+        },
+        {
+          "pincode": "560076",
+          "in_stock": true
+        },
+        {
+          "pincode": "560095",
+          "in_stock": false
+        },
+        {
+          "pincode": "560102",
+          "in_stock": false
+        },
+        {
+          "pincode": "560103",
+          "in_stock": false
+        }
+      ]
+    }
+  ]
+}
