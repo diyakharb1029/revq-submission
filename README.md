@@ -1,4 +1,4 @@
-# RevQ Take-Home Submission
+# RevQ Submission
 
 ## Screenshots
 
